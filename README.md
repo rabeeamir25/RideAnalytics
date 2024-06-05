@@ -16,16 +16,13 @@ The dataset used for this project is sourced from Kaggle. You can find the origi
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/RideAnalytics.git
+    https://github.com/rabeeamir25/RideAnalytics.git
     ```
 2. Navigate to the project directory:
     ```sh
     cd RideAnalytics
     ```
-3. Install required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
+
 
 ## Usage
 
@@ -76,5 +73,5 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 
-- The dataset was sourced from Kaggle. Find it [here](https://xyz.com).
+- The dataset was sourced from Kaggle. Find it [here](https://www.kaggle.com/datasets/zusmani/uberdrives/discussion/39597).
 
